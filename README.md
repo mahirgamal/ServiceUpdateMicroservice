@@ -131,6 +131,10 @@ The application is structured using a modular architecture, aligning with Domain
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+## Acknowledgments
+
+This work originates from the Trakka project and builds on the existing TerraCipher Trakka implementation. We appreciate the support and resources provided by the Trakka project team. Special thanks to Dave Swain and Will Swain from TerraCipher for their guidance and assistance throughout this project
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/mahirgamal/ServiceUpdateMicroservice/blob/main/LICENSE) file for details.
